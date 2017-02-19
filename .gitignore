@@ -8,6 +8,8 @@ build/
 report/
 src/server/config/
 
+config.js
+
 # compiled source #
 *.com
 *.class
